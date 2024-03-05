@@ -129,7 +129,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/yihsuan-ashley-chen/"
 
 # Site Footer
