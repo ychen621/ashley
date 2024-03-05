@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Ashley Chen"
-  avatar           : "/assets/image/id_photo_2024.jpeg"
+  avatar           : "/assets/images/id_photo_2024.jpeg"
   bio              : "I am an **amazing** person."
   location         : "Sunnyvale, CA"
   email            : "ashleychen8889@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "ashleychen8889@gmail.com"
+      # url: "ashleychen8889@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yihsuan-ashley-chen/"
