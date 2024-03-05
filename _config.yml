@@ -106,7 +106,10 @@ analytics:
 author:
   name             : "Yi-Hsuan Chen"
   avatar           : "/assets/images/id_photo_2024.jpeg"
-  bio              : "M.S. in Computer Sciences   Ph.D. Candidate in Biology   B.S. in Clinical Laboratory Sciences and Medical Biotechnology"
+  bio              : |
+                      M.S. in Computer Sciences
+                      Ph.D. Candidate in Biology 
+                      B.S. in Clinical Laboratory Sciences and Medical Biotechnology
   location         : "Sunnyvale, CA"
   email            : "ashleychen8889@gmail.com"
   links:
